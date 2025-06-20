@@ -1,0 +1,7 @@
+polars
+pandas
+numpy
+scikit-learn
+pypfopt
+yfinance
+pytest
