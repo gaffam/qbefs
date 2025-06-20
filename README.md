@@ -1,8 +1,5 @@
 # Quant System Skeleton
 
-This repository contains a minimal skeleton for a modular quantitative trading
-system.  Each component is isolated in its own module under the
-`quant_system` package to make future development easier.
 
 ## Modules
 
